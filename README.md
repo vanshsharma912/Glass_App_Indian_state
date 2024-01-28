@@ -12,3 +12,9 @@ The following design considerations have been followed in determination of the a
 4.Factor of safety used is 2.5 considering the variability in strength of glass. 
 
 5.The provisions of the App are applicable to normal, reflective, laminated, tempered and insulating and heat strengthened rectangular glass panels properly secured. 
+
+![1](https://github.com/vanshsharma912/Glass_App_Indian_state/assets/93185735/b3e3d1c8-602a-4563-8605-652f6ceb08a9)
+
+![2](https://github.com/vanshsharma912/Glass_App_Indian_state/assets/93185735/b53ca29b-8b29-4058-b0e3-dad401e9d2cf)
+
+![3](https://github.com/vanshsharma912/Glass_App_Indian_state/assets/93185735/b8f82fb6-5dbe-4a67-b9a4-0c3e0219a65d)
